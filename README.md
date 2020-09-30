@@ -1,6 +1,6 @@
-# Face Recognition
+# Face Image Classification
 
-Face Recognition
+Face Image Classification
 1. Using simple Neural Network 
 Tuned different hyperparameters for simple Neural Network architectures on Tensorflow to observe effects on accuracy and performance. 
 
